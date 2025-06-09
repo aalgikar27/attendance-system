@@ -6,7 +6,6 @@ A face-based attendance system with integrated backend and frontend using the ME
 
 ## 📁 Project Structure
 
-
 ---
 
 ## 🚀 How to Start the Project
@@ -27,8 +26,9 @@ Ensure you have the following installed:
 
    ```bash
    cd backend
- Start Frontend
-Open a new terminal.
+   Start Frontend
+   Open a new terminal.
+   ```
 
 Navigate to the frontend directory:
 
@@ -52,6 +52,3 @@ npm run dev
 
 🔐 Environment Variables
 Ensure you create a .env file in both frontend/ and backend/ as needed (e.g., for API base URLs or secret keys). Never commit secrets to GitHub.
-
-🤝 Contributions
-Feel free to fork the repo and create pull requests if you'd like to contribute!
